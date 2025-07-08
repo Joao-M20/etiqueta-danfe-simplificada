@@ -38,6 +38,9 @@ def parse_nfe_xml(xml_path):
         'vNF': vNF
     }
 
+
+#######################################################
+
 def generate_danfe_etiqueta(data, output_pdf):
     largura = 60 * mm
     altura = 100 * mm
